@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/surya241/Flames-App/static/css/main.0f609343.chunk.css",
-    "main.js": "/surya241/Flames-App/static/js/main.78338788.chunk.js",
-    "main.js.map": "/surya241/Flames-App/static/js/main.78338788.chunk.js.map",
-    "runtime-main.js": "/surya241/Flames-App/static/js/runtime-main.e18cb629.js",
-    "runtime-main.js.map": "/surya241/Flames-App/static/js/runtime-main.e18cb629.js.map",
-    "static/js/2.64527f5e.chunk.js": "/surya241/Flames-App/static/js/2.64527f5e.chunk.js",
-    "static/js/2.64527f5e.chunk.js.map": "/surya241/Flames-App/static/js/2.64527f5e.chunk.js.map",
-    "static/js/3.e1ddeb53.chunk.js": "/surya241/Flames-App/static/js/3.e1ddeb53.chunk.js",
-    "static/js/3.e1ddeb53.chunk.js.map": "/surya241/Flames-App/static/js/3.e1ddeb53.chunk.js.map",
-    "index.html": "/surya241/Flames-App/index.html",
-    "static/css/main.0f609343.chunk.css.map": "/surya241/Flames-App/static/css/main.0f609343.chunk.css.map",
-    "static/js/2.64527f5e.chunk.js.LICENSE.txt": "/surya241/Flames-App/static/js/2.64527f5e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/surya241/Flames-App/static/media/love.42ab1eb2.jpg"
+    "main.css": "/Flames-App/static/css/main.2a45c4f0.chunk.css",
+    "main.js": "/Flames-App/static/js/main.78338788.chunk.js",
+    "main.js.map": "/Flames-App/static/js/main.78338788.chunk.js.map",
+    "runtime-main.js": "/Flames-App/static/js/runtime-main.6c638b92.js",
+    "runtime-main.js.map": "/Flames-App/static/js/runtime-main.6c638b92.js.map",
+    "static/js/2.64527f5e.chunk.js": "/Flames-App/static/js/2.64527f5e.chunk.js",
+    "static/js/2.64527f5e.chunk.js.map": "/Flames-App/static/js/2.64527f5e.chunk.js.map",
+    "static/js/3.e1ddeb53.chunk.js": "/Flames-App/static/js/3.e1ddeb53.chunk.js",
+    "static/js/3.e1ddeb53.chunk.js.map": "/Flames-App/static/js/3.e1ddeb53.chunk.js.map",
+    "index.html": "/Flames-App/index.html",
+    "static/css/main.2a45c4f0.chunk.css.map": "/Flames-App/static/css/main.2a45c4f0.chunk.css.map",
+    "static/js/2.64527f5e.chunk.js.LICENSE.txt": "/Flames-App/static/js/2.64527f5e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Flames-App/static/media/love.42ab1eb2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e18cb629.js",
+    "static/js/runtime-main.6c638b92.js",
     "static/js/2.64527f5e.chunk.js",
-    "static/css/main.0f609343.chunk.css",
+    "static/css/main.2a45c4f0.chunk.css",
     "static/js/main.78338788.chunk.js"
   ]
 }
